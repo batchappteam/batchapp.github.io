@@ -1,0 +1,2 @@
+# batchapp.github.io
+This is a Free Meal Plan Builder, for planning a week of a plant based diet. This is a completely free sample of what you can do at the Android &amp; iOS versions of Batch app. By using this meal-planner, you agree that you are the sole responsible of what you eat and we are not suggesting you to change your diet. You should always ask a doctor before making drastic changes to your diet.
